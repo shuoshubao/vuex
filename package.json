@@ -1,0 +1,15 @@
+{
+  "name": "demo",
+  "version": "0.0.1",
+  "dependencies": {
+    "parce": "^0.0.29",
+    "vuex": "^3.0.1"
+  },
+  "scripts": {
+    "init": "parce init",
+    "dll": "NODE_ENV=production parce dll",
+    "dev": "NODE_ENV=development parce dev",
+    "build": "NODE_ENV=production parce build",
+    "server": "parce server"
+  }
+}
