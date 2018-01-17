@@ -32,7 +32,7 @@
     }
 </script>
 
-<style rel="stylesheet/scss" scoped>
+<style scoped>
 h1 {
     font-size: 20px;
 }

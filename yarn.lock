@@ -4686,7 +4686,7 @@ param-case@2.1.x:
 
 parce@^0.0.29:
   version "0.0.29"
-  resolved "http://r.npm.sankuai.com/parce/download/parce-0.0.29.tgz#691fdbce9143fdf0e94aeb7f107be7fb52dc1604"
+  resolved "http://registry.npm.taobao.org/parce/download/parce-0.0.29.tgz#691fdbce9143fdf0e94aeb7f107be7fb52dc1604"
   dependencies:
     antd "^3.0.3"
     assets-webpack-plugin "^3.5.1"
